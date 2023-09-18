@@ -17,4 +17,4 @@ function calculadora(comando) {
     }
 }
 
-console.log(calculadora(argv[]));
+console.log(calculadora(argv[2],argv[2],argv[2]));
